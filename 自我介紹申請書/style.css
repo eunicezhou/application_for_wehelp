@@ -1,0 +1,36 @@
+html{
+    background: url("https://i.pinimg.com/564x/3e/57/57/3e5757fe60f04e8f6e9a301447146ba2.jpg") no-repeat fixed;
+    background-size: cover;
+}
+body{
+    color:#ffffff;
+    font-family: 'Courgette', cursive;
+}
+.header{
+    font-size: 48px;
+    text-align: center;
+    padding-top: 10px;
+}
+.container{
+    background-color:rgba(192,192,192,0.5);
+    border:rgba(255,255,255,0.5) 20px solid;
+    padding:10px;
+    width:60%;
+    margin:0 auto;
+}
+.container h1{
+    font-family:"Calibri","微軟正黑體" ;
+    font-size: 24px;
+    font-weight: bold;
+}
+table{
+    text-align: center;
+    border-style: double;
+    border-width: 3px;
+    border-color:#fff;
+    border-collapse: collapse;
+}
+th,td{
+    border-width: 1px;
+    border-style:solid;
+}
